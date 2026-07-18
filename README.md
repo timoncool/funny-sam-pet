@@ -2,15 +2,13 @@
 
 Codex pet package for a playful pixel-art Sam Altman mascot.
 
-<video autoplay loop muted playsinline controls width="480">
-  <source src="preview.mp4" type="video/mp4">
-</video>
+![Funny Sam preview](preview.gif)
 
 ## What is included
 
 - `pet.json`
 - `spritesheet.webp`
-- `preview.mp4`
+- `preview.gif`
 
 ## Install into Codex
 
