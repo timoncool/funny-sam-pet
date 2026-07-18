@@ -2,6 +2,8 @@
 
 Codex pet package for a playful pixel-art Sam Altman mascot.
 
+![Funny Sam preview](preview.gif)
+
 ## What is included
 
 - `pet.json`
